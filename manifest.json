@@ -1,0 +1,11 @@
+{
+	"id": "power-line",
+	"name": "PowerLine",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Sort and filter lists with simple codeblocks.",
+	"author": "Joshua Reinier",
+	"authorUrl": "https://joshuareinier.com",
+	"fundingUrl": "https://bmc.link/joshuatreinier",
+	"isDesktopOnly": false
+}
